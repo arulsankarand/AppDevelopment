@@ -1,0 +1,45 @@
+.footer {
+  background-color: #0008ff;
+  color: rgb(6, 6, 6);
+  padding: 20px;
+  width: 97%;
+  margin-bottom: 5%;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.footer-section {
+  flex: 1;
+  padding: 0px 20px;
+  text-align: center;
+  font-style: oblique;
+  
+}
+
+h3 {
+  font-size: 20px;
+  color: black;
+  
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.social-icons {
+  margin-top: 10px;
+}
+
+.social-icons a {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  margin-right: 10px;
+  text-decoration: none;
+}
